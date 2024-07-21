@@ -1,1 +1,1 @@
-# Web app for driving robot build with raspberry pie 4 Frontend tech html-js-css Backend tech is Flusk
+# Web-RTC project where server side is on raspberry pie 4 Applicatoin tech is React Native Server tech is Node.js
